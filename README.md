@@ -39,7 +39,7 @@ Follow these steps to get the NewsBD app up and running on your local machine or
 1. Start the Expo development server:
 
    ```bash
-   npm install
+   npx expo start -c
 
 2. Follow the on-screen instructions to open the app on an Android or iOS emulator, or scan the QR code with the Expo Go app on your physical device.
 
